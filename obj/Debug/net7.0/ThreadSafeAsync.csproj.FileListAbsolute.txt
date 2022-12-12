@@ -1,0 +1,15 @@
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\bin\Debug\net7.0\ThreadSafeAsync.exe
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\bin\Debug\net7.0\ThreadSafeAsync.deps.json
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\bin\Debug\net7.0\ThreadSafeAsync.runtimeconfig.json
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\bin\Debug\net7.0\ThreadSafeAsync.dll
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\bin\Debug\net7.0\ThreadSafeAsync.pdb
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.csproj.AssemblyReference.cache
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.AssemblyInfoInputs.cache
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.AssemblyInfo.cs
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.csproj.CoreCompileInputs.cache
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.dll
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\refint\ThreadSafeAsync.dll
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.pdb
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ThreadSafeAsync.genruntimeconfig.cache
+C:\Users\nirza\NewRiderProjects\ThreadSafeAsync\obj\Debug\net7.0\ref\ThreadSafeAsync.dll

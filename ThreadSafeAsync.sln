@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeAsync", "ThreadSafeAsync.csproj", "{69B62331-9CE9-41F2-84AF-0389F7C789BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B62331-9CE9-41F2-84AF-0389F7C789BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B62331-9CE9-41F2-84AF-0389F7C789BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B62331-9CE9-41F2-84AF-0389F7C789BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B62331-9CE9-41F2-84AF-0389F7C789BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
